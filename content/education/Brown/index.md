@@ -1,6 +1,6 @@
 ---
 date: '2022-09-01'
-title: 'B.Sc. Computer Science (3.8/4.0 GPA)'
+title: 'B.Sc. Computer Science'
 school: 'Brown University'
 location: 'Providence, RI'
 range: 'Sep 2022 — May 2026'

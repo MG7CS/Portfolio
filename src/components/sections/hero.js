@@ -77,7 +77,7 @@ const Hero = () => {
         <a href="https://uapply.africa/" target="_blank" rel="noreferrer">
           UAPPLY
         </a>
-        , and{' '}
+        and{' '}
         <a href="https://heygamo.com/" target="_blank" rel="noreferrer">
           HeyGamo
         </a>

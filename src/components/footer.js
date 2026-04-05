@@ -106,7 +106,7 @@ const Footer = () =>
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <div>Designed &amp; Built by Moise Gasana</div>
+        <div>Hosted on GitHub Pages by Moise Gasana</div>
       </StyledCredit>
     </StyledFooter>
   );
