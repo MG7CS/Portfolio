@@ -1,12 +1,12 @@
 const config = require('./src/config');
 
 module.exports = {
-  pathPrefix: '/moise-portfolio',
+  pathPrefix: '/portfolio',
   siteMetadata: {
     title: 'Moise Gasana',
     description:
       'Moise Gasana is a full-stack engineer and CS senior at Brown University. He builds AI products that solve real problems for real people.',
-    siteUrl: 'https://MG7CS.github.io/moise-portfolio',
+    siteUrl: 'https://MG7CS.github.io/portfolio',
     image: 'og.png',
     twitterUsername: '',
   },
